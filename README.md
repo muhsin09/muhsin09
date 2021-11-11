@@ -7,7 +7,7 @@
 		
 	💻   Software developer at TUBITAK.
 	
-	💪🏻   On the way to becoming a better software developer
+	💪🏻   On the way of being a better software developer
 	
 	🌱   Currently learning Clojure
 	
