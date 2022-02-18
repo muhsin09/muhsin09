@@ -9,7 +9,7 @@
 	
 	💪🏻   On the way of being a better software developer
 	
-	🌱   Currently learning Clojure
+	🌱   Currently interested in goLang.
 	
 	📫   How to reach me: muhsinozbek09[at]gmail[dot]com
 	
