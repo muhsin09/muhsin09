@@ -7,7 +7,7 @@
 		
 	💻   Software developer at TUBITAK.
 	
-	💪🏻   On the way of being a better software developer
+	💪🏻   On the way of being a better software engineer.
 	
 	🌱   Currently interested in goLang.
 	
