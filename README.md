@@ -5,7 +5,7 @@
 	
 <samp>
 		
-	💻   Software developer at TUBITAK.
+	💻   Software developer at TÜBITAK BİLGEM YTE.
 	
 	💪🏻   On the way of being a better software engineer.
 	
